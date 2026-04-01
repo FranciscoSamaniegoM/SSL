@@ -1,6 +1,8 @@
-#Compilador usado
+Compilador usado
 GCC
-#Versión del GCC 
+
+Versión del GCC 
 15.2.0
-#Versión de C
+
+Versión de C
 C23 202311L
